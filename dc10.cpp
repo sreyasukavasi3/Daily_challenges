@@ -7,7 +7,7 @@ int main(){
     while (t--){
         string x,y;
         cin >> x >> y;
-        ll m = 0,n=0;
+        ll m = 0, n=0;
         for (ll i=0;i<x.size();i++){
             m += x[i];
         }
